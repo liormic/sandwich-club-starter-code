@@ -27,7 +27,7 @@
     </string-array>
 
     <string-array name="sandwich_details">
-        <item>{\"name\":{\"mainName\":\"Ham and cheese
+        <item>{\\name\:{\"mainName\":\"Ham and cheese
             sandwich\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"\",\"description\":\"A ham and cheese
             sandwich is a common type of sandwich. It is made by putting cheese and sliced ham
             between two slices of bread. The bread is sometimes buttered and/or toasted. Vegetables
@@ -44,15 +44,15 @@
             bread\",\"Bratwurst\",\"Onions\",\"Tomato ketchup\",\"Mustard\",\"Curry powder\"]}
         </item>
         <item>
-            {\"name\":{\"mainName\":\"Chivito\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"Uruguay\",\"description\":\"Chivito
-            is a national dish of Uruguay, It is a thin slice of tender cooked beef steak
-            (churrasco), with mozzarella, tomatoes, mayonnaise, black or green olives, and commonly
-            also bacon, fried or hard-boiled eggs and ham, served as a sandwich in a bun, often
-            accompanied by French fried potatoes. Other ingredients, such as red beets, peas,
-            grilled or pan-fried red peppers, and slices of cucumber, may be
-            added.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/4/48/Chivito1.jpg\",\"ingredients\":[\"Bun\",\"Churrasco
-            beef\",\"Bacon\",\"Fried or hard-boiled eggs\",\"Ham\",\"Black or green
-            olives\",\"Mozzarella\",\"Tomatoes\",\"Mayonnaise\"]}
+                {\"name\":{\"mainName\":\"Chivito\",\"alsoKnownAs\":[]},\"placeOfOrigin\":\"Uruguay\",\"description\":\"Chivito
+                is a national dish of Uruguay, It is a thin slice of tender cooked beef steak
+                (churrasco), with mozzarella, tomatoes, mayonnaise, black or green olives, and commonly
+                also bacon, fried or hard-boiled eggs and ham, served as a sandwich in a bun, often
+                accompanied by French fried potatoes. Other ingredients, such as red beets, peas,
+                grilled or pan-fried red peppers, and slices of cucumber, may be
+                added.\",\"image\":\"https://upload.wikimedia.org/wikipedia/commons/4/48/Chivito1.jpg\",\"ingredients\":[\"Bun\",\"Churrasco
+                beef\",\"Bacon\",\"Fried or hard-boiled eggs\",\"Ham\",\"Black or green
+                olives\",\"Mozzarella\",\"Tomatoes\",\"Mayonnaise\"]}
         </item>
         <item>{\"name\":{\"mainName\":\"Club sandwich\",\"alsoKnownAs\":[\"Clubhouse
             sandwich\"]},\"placeOfOrigin\":\"United States\",\"description\":\"A club sandwich, also
