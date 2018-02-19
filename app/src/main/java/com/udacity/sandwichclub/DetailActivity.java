@@ -77,9 +77,11 @@ public class DetailActivity extends AppCompatActivity {
                 .into(sandwichImage);
 
         setTitle(sandwichIntilaized.getMainName());
+        //replaceAll taken from stackoverflow
         alsoKnownAs.setText(sandwichIntilaized.getAlsoKnownAs().toString().replaceAll("\\[|]", ""));
         originTv.setText(sandwichIntilaized.getPlaceOfOrigin());
         descriptionTv.setText(sandwichIntilaized.getDescription());
+        //replaceAll taken from stackoverflow
         ingridentsTv.setText(sandwichIntilaized.getIngredients().toString().replaceAll("\\[|]", ""));
     }
 
